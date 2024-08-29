@@ -1,8 +1,10 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/dreamlabo/dreamlabo/main/git-banner-1.png" alt="Banner Image" >
+
+
 
 <!--
 **dreamlabo/dreamlabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
